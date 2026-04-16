@@ -1,2 +1,2 @@
-# Pong-
-This is a complete working Pong Game made in Unity with a Pause Menu.
+# Pong
+This is a fully functional pong game made in unity with pause menu 
